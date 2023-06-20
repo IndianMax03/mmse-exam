@@ -1,6 +1,6 @@
-.idea/
+.idea/**
 
-.obsidian/
+.obsidian/**
 
 .DS_Store
 
